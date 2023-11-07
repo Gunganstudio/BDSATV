@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-
-
 #MiME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zStK8g2.png",Zing!
+http://183.89.246.119:8881/play/a09a/index.m3u8
 
 #EXTINF:-1,GTV_HD
 http://100.64.64.11/Gazitvtowkaiinternal_HD/tracks-v1a1/mono.m3u8
