@@ -1,0 +1,14 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=24
+#EXTINF:-1 tvg-id="24" tvg-logo="https://tatalogo.pages.dev/24.png" group-title="Sports",Star Sports 1 Hindi HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/KeyLelo.php?id=78
+#EXTINF:-1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports",Star Sports 1 HD
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abfc480ae7920a3ebd9e99e7b9a0d3e2:63a7fe4e7899ba2bc5bbd4307398f3ff
+#EXTINF:-1 tvg-id="78" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUt781MmozfRmx_JFKlKjXlc1TuQMVbpPloA&amp;usqp=CAU" group-title="",TEN CRICKET 
+https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
